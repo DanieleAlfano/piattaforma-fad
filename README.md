@@ -7,7 +7,7 @@ questionari, attestati PDF e il consuntivo ECM da inviare all’ente accreditant
 Realizzata da zero per un ente di formazione. Questo repository è la **vetrina**: il codice sorgente è privato, ma
 puoi provare tutto nella demo pubblica, con dati e persone inventati.
 
-**[▶ Prova la demo](LINK_DEMO)** · nella pagina di accesso scegli un ruolo e sei dentro con un clic.
+**[▶ Prova la demo](https://fad-demo.vercel.app/login)** · nella pagina di accesso scegli un ruolo e sei dentro con un clic.
 
 ![Pagina di un corso](screenshots/04-corso.png)
 
